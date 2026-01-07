@@ -12,8 +12,8 @@ HandScript is a real-time American Sign Language (ASL) alphabet recognition syst
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/waditariq/HandScript.git
-   cd HandScript
+   git clone https://github.com/rMalec29/HandScript-ASL-Predictor.git
+   cd HandScript-ASL-Predictor
    ```
 
 2. Install dependencies:
